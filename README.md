@@ -1,1 +1,1 @@
-![ob postin](./job posting.png)
+[job posting](./job_posting.png)
