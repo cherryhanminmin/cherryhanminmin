@@ -1,1 +1,1 @@
-![job posting](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+![job posting](https://github.com/cherryhanminmin/cherryhanminmin/blob/main/job%20posting.png)
