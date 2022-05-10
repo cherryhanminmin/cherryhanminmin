@@ -1,1 +1,1 @@
-[job posting](./job_posting.png)
+[job posting](job posting.png)
