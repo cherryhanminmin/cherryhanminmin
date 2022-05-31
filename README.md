@@ -1,5 +1,7 @@
 ![job posting](https://github.com/cherryhanminmin/cherryhanminmin/blob/main/job%20posting.png)
-  【发个职位：分布式存储场景下的高性能网络研发】
+ 
+ 
+ 【2022.5.31职位：分布式存储场景下的高性能网络研发】
   擅长的技能： 
   1. 擅长rdma网络高性能编程，性能分析 
   2. 熟悉rdma网络拥塞控制机制和qos机制，具备实战调优经验 
