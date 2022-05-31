@@ -1,6 +1,4 @@
-![job posting](https://github.com/cherryhanminmin/cherryhanminmin/blob/main/job%20posting.png)
- 
- 
+<img src="[http://p1-ks3.532106.com/33f925f1f92649678221088fdfb531a1.jpg](https://github.com/cherryhanminmin/cherryhanminmin/blob/main/job%20posting.png)" width="600" height="900" align="middle" />
  【2022.5.31职位：分布式存储场景下的高性能网络研发】
   擅长的技能： 
   1. 擅长rdma网络高性能编程，性能分析 
