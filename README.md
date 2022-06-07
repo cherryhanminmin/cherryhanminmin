@@ -1,4 +1,4 @@
-<img src="https://github.com/cherryhanminmin/cherryhanminmin/blob/main/job%20posting.png" width="600" height="900" align="middle" />  
+<img src="https://github.com/cherryhanminmin/cherryhanminmin/blob/main/job%20posting.png" width="400" height="600" align="middle" />  
  <b>2022.5.31职位更新：分布式存储场景下的高性能网络研发</b>
 <p>
  擅长的技能:</br> 
